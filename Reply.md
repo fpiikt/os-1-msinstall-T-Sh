@@ -2,6 +2,8 @@
 Выполнила: Волошина Т.А.
 
 Группа: P3322
+
+Ссылка на репозиторий со скриптами: https://github.com/fpiikt/os-1-msinstall-T-Sh
 ## Отчет по заданию 1: создание скрипта для автоматизации установки под Windows
 Был создан файл [auto_install.bat](https://github.com/fpiikt/os-1-msinstall-T-Sh/blob/master/auto_install.bat), 
 содержащий единый скрипт по установке программ, указанных в задании.
